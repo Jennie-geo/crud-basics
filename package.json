@@ -27,7 +27,7 @@
     "lodash.templatesettings": "^4.2.0",
     "lodash.tostring": "^4.1.4",
     "math-random": "^1.0.4",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "minimist": "^1.2.5",
     "mkdirp": "^0.5.5",
     "module": "^1.2.5",
